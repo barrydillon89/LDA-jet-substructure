@@ -1,0 +1,10 @@
+I run this on a macbook with python3.7.3.
+
+The requried python modules are:
+
+ - matplotlib 3.0.3
+ - numpy 1.16.4
+ - scikit-learn 0.21.2
+ - gensim 3.8.0
+
+There may be some minor bugs that arise from running the code on linux distributions, but nothing major that can't be fixed easily.
